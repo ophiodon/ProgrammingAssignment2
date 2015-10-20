@@ -38,7 +38,7 @@ cacheSolve <- function(x, ...) {
     n
 }
 
-## Tested CacheMAtrix code with test<-makeCacheMatrix(matrix(c(50,25,25,50),c(2,2)))
+## Tested CacheMatrix code with test<-makeCacheMatrix(matrix(c(50,25,25,50),c(2,2)))
 ## Tested cacheSolve with test<-makeCacheMatrix(matrix(c(50,25,25,50),c(2,2)))
 ## results
             ##       [,1]        [,2]
